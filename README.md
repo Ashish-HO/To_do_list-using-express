@@ -14,7 +14,7 @@ A simple To-Do List application that uses JWT (JSON Web Token) for secure user a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git](https://github.com/Ashish-HO/To_do_list-using-express/
+   git clone https://github.com/Ashish-HO/To_do_list-using-express/
    cd your-repo-name
 2. Install dependencies:
 
@@ -25,9 +25,9 @@ A simple To-Do List application that uses JWT (JSON Web Token) for secure user a
    
 3. Set up environment variables:
    Create a .env file and add  variables:
-   MONGODB_URL=
-   PORT=
-   AUTH_PRIVATE_KEY=
+      MONGODB_URL=
+      PORT=
+      AUTH_PRIVATE_KEY=
 
 
 4. Run the application :
